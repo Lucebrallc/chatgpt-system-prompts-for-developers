@@ -6,6 +6,8 @@
 [![Prompts](https://img.shields.io/badge/Prompts-50%2B%20Tested-10b981.svg)](https://www.lucebra.com)
 [![AI Masterclasses](https://img.shields.io/badge/AI%20Tracks-260%2B%20Courses-blue.svg)](https://www.lucebra.com)
 [![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](LICENSE)
+[![Google Play](https://img.shields.io/badge/Google_Play-Download-34a853.svg?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.lucebra.app)
+[![App Store](https://img.shields.io/badge/App_Store-iOS-000000.svg?logo=apple&logoColor=white)](https://apps.apple.com/us/app/lucebra/id6754839631)
 
 ---
 
@@ -101,4 +103,18 @@ When explaining technical concepts to executive stakeholders (Board of Directors
 > 🎓 **Master this with:** [Peter Alkema Course Catalog](https://github.com/Lucebrallc/awesome-peter-alkema-courses)
 
 ---
+
+---
+
+## 📱 Learn on the Go — Official Lucebra Mobile Apps
+
+Study anytime, anywhere with offline video streaming, audio mode, quiz practice, and instant verifiable certificates on iOS and Android:
+
+| Platform | Direct Store Link | Availability |
+| :--- | :--- | :---: |
+| 🍏 **Apple App Store (iOS & iPadOS)** | [👉 **Download on the App Store**](https://apps.apple.com/us/app/lucebra/id6754839631) | Free Download |
+| 🤖 **Google Play Store (Android)** | [👉 **Get it on Google Play**](https://play.google.com/store/apps/details?id=com.lucebra.app) | Free Download |
+
+---
+
 © Lucebra Global Education. Visit [lucebra.com](https://www.lucebra.com).
