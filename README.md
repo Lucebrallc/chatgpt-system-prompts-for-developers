@@ -2,6 +2,8 @@
 
 > A curated collection of 50+ production-grade system prompts for software engineers, tech leads, and CIOs, curated with [Peter Alkema](https://www.lucebra.com/instructor/peteralkema) on [Lucebra](https://www.lucebra.com).
 
+> 🌐 **Global Accessibility:** All courses include synchronous **AI-powered subtitles in 99+ languages**, verifiable digital certificates, and full offline mobile support across 33 native platform locales.
+
 [![Lucebra Platform](https://img.shields.io/badge/Platform-Lucebra.com-2563eb.svg)](https://www.lucebra.com)
 [![Prompts](https://img.shields.io/badge/Prompts-50%2B%20Tested-10b981.svg)](https://www.lucebra.com)
 [![AI Masterclasses](https://img.shields.io/badge/AI%20Tracks-260%2B%20Courses-blue.svg)](https://www.lucebra.com)
